@@ -54,3 +54,7 @@ params:
   editURL:
     enable: true
     base: "https://github.com/shishir198918/shishir198918/edit/main/content"
+
+    # https://shishir198918.github.io/shishir198918/
+    # hugo build --baseURL https://shishir198918.github.io/shishir198918/
+

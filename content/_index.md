@@ -1,17 +1,17 @@
 ---
-title: My Site
+title: Shi**2r site
 toc: false
 ---
 
-This is the landing page.
+My programming journey towards excellence 
 
 ## Explore
 
 {{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
+  {{< card link="logs" title="Logs" icon="book-open" >}}
   {{< card link="about" title="About" icon="user" >}}
 {{< /cards >}}
 
-## Documentation
+<!-- ## Documentation
 
-For more information, visit [Hextra](https://imfing.github.io/hextra).
+For more information, visit [Hextra](https://imfing.github.io/hextra). -->

@@ -3,4 +3,4 @@ title: About
 type: about
 ---
 
-This is the about page.
+hey i am like everyone but what makes me diffrence me attitute of never giving uo of learning things 
